@@ -1,0 +1,468 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="28">
+      <Unit0>
+        <Filename Value="Cavern_Fighter.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="37"/>
+        <CursorPos X="1" Y="74"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="MySDLSprites.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="MySDLSprites"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="17"/>
+        <CursorPos X="18" Y="35"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="DataEngine.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="DataEngine"/>
+        <EditorIndex Value="4"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="13" Y="8"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="CaveSpr.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="CaveSpr"/>
+        <EditorIndex Value="5"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="4" Y="8"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="ShipSpr.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ShipSpr"/>
+        <EditorIndex Value="6"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="4" Y="8"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="MissileSpr.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="MissileSpr"/>
+        <EditorIndex Value="7"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="4" Y="8"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="BaseSpr.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="BaseSpr"/>
+        <EditorIndex Value="8"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="4" Y="8"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="LaserSpr.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="LaserSpr"/>
+        <EditorIndex Value="9"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="4" Y="8"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="FuelSpr.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="FuelSpr"/>
+        <EditorIndex Value="10"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="4" Y="8"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="mainUnit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="mainUnit"/>
+        <EditorIndex Value="23"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="36" Y="8"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="BombSpr.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="BombSpr"/>
+        <EditorIndex Value="13"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="4" Y="8"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="AlienSpr.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="AlienSpr"/>
+        <EditorIndex Value="11"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="4" Y="8"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="BaseStationSpr.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="BaseStationSpr"/>
+        <EditorIndex Value="12"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="4" Y="8"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="FuelGuage.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="FuelGuage"/>
+        <EditorIndex Value="15"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="4" Y="8"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="CFconsts.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="CFconsts"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="20"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="AstroSpr.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="AstroSpr"/>
+        <EditorIndex Value="14"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="4" Y="8"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="SplashScreen.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="SplashScreen"/>
+        <EditorIndex Value="24"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="4" Y="8"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="OptionsScreen.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="OptionsScreen"/>
+        <EditorIndex Value="25"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="4" Y="8"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="Lives.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Lives"/>
+        <EditorIndex Value="16"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="4" Y="8"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="Sector.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Sector"/>
+        <EditorIndex Value="17"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="3" Y="8"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="Score.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Score"/>
+        <EditorIndex Value="18"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="4" Y="8"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="StatsObj.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="StatsObj"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="3"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="74" Y="219"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="ZoneSpr.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ZoneSpr"/>
+        <EditorIndex Value="19"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="4" Y="8"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="Tools.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Tools"/>
+        <EditorIndex Value="2"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="140"/>
+        <CursorPos X="17" Y="158"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit23>
+      <Unit24>
+        <Filename Value="UfoSpr.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="UfoSpr"/>
+        <EditorIndex Value="20"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="4" Y="8"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit24>
+      <Unit25>
+        <Filename Value="RadarSpr.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="RadarSpr"/>
+        <EditorIndex Value="21"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="4" Y="8"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit25>
+      <Unit26>
+        <Filename Value="BangSpr.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="BangSpr"/>
+        <EditorIndex Value="22"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="26" Y="8"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit26>
+      <Unit27>
+        <Filename Value="Bass.pas"/>
+        <UnitName Value="BASS"/>
+        <EditorIndex Value="26"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="593"/>
+        <CursorPos X="125" Y="605"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit27>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="BombSpr.pas"/>
+        <Caret Line="1" Column="1" TopLine="1"/>
+      </Position1>
+      <Position2>
+        <Filename Value="AstroSpr.pas"/>
+        <Caret Line="1" Column="1" TopLine="1"/>
+      </Position2>
+      <Position3>
+        <Filename Value="AstroSpr.pas"/>
+        <Caret Line="8" Column="4" TopLine="1"/>
+      </Position3>
+      <Position4>
+        <Filename Value="FuelGuage.pas"/>
+        <Caret Line="1" Column="1" TopLine="1"/>
+      </Position4>
+      <Position5>
+        <Filename Value="FuelGuage.pas"/>
+        <Caret Line="8" Column="4" TopLine="1"/>
+      </Position5>
+      <Position6>
+        <Filename Value="Lives.pas"/>
+        <Caret Line="1" Column="1" TopLine="1"/>
+      </Position6>
+      <Position7>
+        <Filename Value="Sector.pas"/>
+        <Caret Line="1" Column="1" TopLine="1"/>
+      </Position7>
+      <Position8>
+        <Filename Value="Score.pas"/>
+        <Caret Line="1" Column="1" TopLine="1"/>
+      </Position8>
+      <Position9>
+        <Filename Value="ZoneSpr.pas"/>
+        <Caret Line="1" Column="1" TopLine="1"/>
+      </Position9>
+      <Position10>
+        <Filename Value="UfoSpr.pas"/>
+        <Caret Line="1" Column="1" TopLine="1"/>
+      </Position10>
+      <Position11>
+        <Filename Value="UfoSpr.pas"/>
+        <Caret Line="8" Column="4" TopLine="1"/>
+      </Position11>
+      <Position12>
+        <Filename Value="RadarSpr.pas"/>
+        <Caret Line="1" Column="1" TopLine="1"/>
+      </Position12>
+      <Position13>
+        <Filename Value="BangSpr.pas"/>
+        <Caret Line="1" Column="1" TopLine="1"/>
+      </Position13>
+      <Position14>
+        <Filename Value="BangSpr.pas"/>
+        <Caret Line="8" Column="43" TopLine="1"/>
+      </Position14>
+      <Position15>
+        <Filename Value="mainUnit.pas"/>
+        <Caret Line="1" Column="1" TopLine="1"/>
+      </Position15>
+      <Position16>
+        <Filename Value="mainUnit.pas"/>
+        <Caret Line="8" Column="31" TopLine="1"/>
+      </Position16>
+      <Position17>
+        <Filename Value="SplashScreen.pas"/>
+        <Caret Line="1" Column="1" TopLine="1"/>
+      </Position17>
+      <Position18>
+        <Filename Value="OptionsScreen.pas"/>
+        <Caret Line="1" Column="1" TopLine="1"/>
+      </Position18>
+      <Position19>
+        <Filename Value="Tools.pas"/>
+        <Caret Line="43" Column="1" TopLine="25"/>
+      </Position19>
+      <Position20>
+        <Filename Value="Tools.pas"/>
+        <Caret Line="94" Column="16" TopLine="76"/>
+      </Position20>
+      <Position21>
+        <Filename Value="Tools.pas"/>
+        <Caret Line="107" Column="16" TopLine="89"/>
+      </Position21>
+      <Position22>
+        <Filename Value="Tools.pas"/>
+        <Caret Line="111" Column="19" TopLine="93"/>
+      </Position22>
+      <Position23>
+        <Filename Value="Tools.pas"/>
+        <Caret Line="112" Column="19" TopLine="94"/>
+      </Position23>
+      <Position24>
+        <Filename Value="Tools.pas"/>
+        <Caret Line="141" Column="59" TopLine="123"/>
+      </Position24>
+      <Position25>
+        <Filename Value="StatsObj.pas"/>
+        <Caret Line="8" Column="36" TopLine="1"/>
+      </Position25>
+      <Position26>
+        <Filename Value="StatsObj.pas"/>
+        <Caret Line="110" Column="41" TopLine="91"/>
+      </Position26>
+      <Position27>
+        <Filename Value="StatsObj.pas"/>
+        <Caret Line="202" Column="105" TopLine="183"/>
+      </Position27>
+      <Position28>
+        <Filename Value="StatsObj.pas"/>
+        <Caret Line="214" Column="20" TopLine="195"/>
+      </Position28>
+      <Position29>
+        <Filename Value="StatsObj.pas"/>
+        <Caret Line="222" Column="31" TopLine="197"/>
+      </Position29>
+      <Position30>
+        <Filename Value="StatsObj.pas"/>
+        <Caret Line="221" Column="12" TopLine="200"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <ProjectOptions>
+    <Version Value="9"/>
+    <PathDelim Value="\"/>
+    <General>
+      <Flags>
+        <MainUnitHasUsesSectionForAllUnits Value="False"/>
+        <MainUnitHasCreateFormStatements Value="False"/>
+        <MainUnitHasTitleStatement Value="False"/>
+      </Flags>
+      <SessionStorage Value="InProjectDir"/>
+      <MainUnit Value="0"/>
+      <Title Value="CavernFighter2"/>
+      <UseAppBundle Value="False"/>
+      <ResourceType Value="res"/>
+    </General>
+    <i18n>
+      <EnableI18N LFM="False"/>
+    </i18n>
+    <VersionInfo>
+      <StringTable ProductVersion=""/>
+    </VersionInfo>
+    <BuildModes Count="1">
+      <Item1 Name="Default" Default="True"/>
+    </BuildModes>
+    <PublishOptions>
+      <Version Value="2"/>
+      <IncludeFileFilter Value="*.(pas|pp|inc|lfm|lpr|lrs|lpi|lpk|sh|xml)"/>
+      <ExcludeFileFilter Value="*.(bak|ppu|o|so);*~;backup"/>
+    </PublishOptions>
+    <RunParams>
+      <local>
+        <FormatVersion Value="1"/>
+      </local>
+    </RunParams>
+    <RequiredPackages Count="1">
+      <Item1>
+        <PackageName Value="LazUtils"/>
+      </Item1>
+    </RequiredPackages>
+    <Units Count="6">
+      <Unit0>
+        <Filename Value="CavernFighter2.lpr"/>
+        <IsPartOfProject Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="MainGameUnit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="MainGameUnit"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="ScreenMain.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ScreenMain"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="CaveSprite.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="CaveSprite"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="DataEngine.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="DataEngine"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="GameManager.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="GameManager"/>
+      </Unit5>
+    </Units>
+  </ProjectOptions>
+  <CompilerOptions>
+    <Version Value="11"/>
+    <PathDelim Value="\"/>
+    <SearchPaths>
+      <IncludeFiles Value="..\Game Library;C:\lazarus\fpc\2.6.2\source\packages\sdl\src\;$(ProjOutDir);C:\lazarus\fpc\2.6.2\units\i386-win32\sdl\"/>
+      <Libraries Value="C:\lazarus\fpc\2.6.2\units\i386-win32\sdl\"/>
+      <OtherUnitFiles Value="..\Game Library;C:\lazarus\fpc\2.6.2\units\i386-win32\sdl\"/>
+    </SearchPaths>
+    <Parsing>
+      <SyntaxOptions>
+        <SyntaxMode Value="Delphi"/>
+      </SyntaxOptions>
+    </Parsing>
+    <Linking>
+      <Options>
+        <Win32>
+          <GraphicApplication Value="True"/>
+        </Win32>
+      </Options>
+    </Linking>
+    <Other>
+      <CompilerMessages>
+        <MsgFileName Value=""/>
+      </CompilerMessages>
+      <CompilerPath Value="$(CompPath)"/>
+    </Other>
+  </CompilerOptions>
+  <Debugging>
+    <Exceptions Count="3">
+      <Item1>
+        <Name Value="EAbort"/>
+      </Item1>
+      <Item2>
+        <Name Value="ECodetoolError"/>
+      </Item2>
+      <Item3>
+        <Name Value="EFOpenError"/>
+      </Item3>
+    </Exceptions>
+  </Debugging>
+</CONFIG>
